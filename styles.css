@@ -1,13 +1,13 @@
 /* Write your CSS here! */
-* {
-    
-    box-sizing: border-box;
+mainHeading{
+    color:red;
 }
 body {
   /* background-color: #dbf9fc; */
   background:linear-gradient(to bottom,#f5f7fa , #c3cfe2);
   padding-left: 250px;
   padding-right: 250px;
+  margin:8px;
 
 }
 h1 {
